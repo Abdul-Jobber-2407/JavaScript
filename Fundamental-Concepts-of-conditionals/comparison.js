@@ -8,7 +8,7 @@
  * 5. can not be a keyword
  * 6. prefer camelCase
  */
-var lastExamResult = 86;
+// var lastExamResult = 86;
 
 /**
  * OPERATION
@@ -30,3 +30,31 @@ var lastExamResult = 86;
  * 7. and : &&
  * 8. or :||
  */
+
+// *************************************************
+
+// console.log(5 > 10);
+// console.log(5 <10);
+// console.log(5 == 10);
+// console.log(10 == 10);
+// console.log(5 >= 10);
+// console.log(15>=10);
+// console.log(5 <= 10);
+// console.log(10<=10);
+// console.log(10==10);
+// console.log(10==10.1);
+
+// -------------------------------------------------
+// var applePrice = 40;
+// var orangePrice = 50;
+// console.log(orangePrice>applePrice);
+// console.log(applePrice<orangePrice);
+
+// *****************************************************************************
+// console.log(10=='10')
+// console.log(10==='10')
+// console.log(120 === 'tomato')
+
+// *******************************************************************************
+// console.log(10 != '10');
+// console.log(10 !== '10')
